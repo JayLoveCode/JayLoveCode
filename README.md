@@ -36,6 +36,7 @@
 | Project | What it does | Tech |
 |---|---|---|
 | [ZAPini Dashboard](https://github.com/drag00n77/hack_umbc_2026) | Penetration testing made easy for websites | Python |
+| [A.I. Matrix: Synthetic vs. Real](https://github.com/JayLoveCode/ai-matrix-synthetic-vs-authentic) | Research into the effects of training AI on fake vs real images | Stable Diffusion, Google CoLab |
 
 ### 📫 Contact
 Reach me at paigejayden07@gmail.com or on LinkedIn.
