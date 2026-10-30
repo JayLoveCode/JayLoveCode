@@ -30,8 +30,9 @@
 ### 🚀 Featured Projects
 | Project | What it does | Tech |
 |---|---|---|
-| [ZAPini Dashboard](https://github.com/drag00n77/hack_umbc_2026) | Penetration testing made easy for websites | Python |
-| [A.I. Matrix: Synthetic vs. Real](https://github.com/JayLoveCode/ai-matrix-synthetic-vs-authentic) | Research into the effects of training AI on fake vs real images | Stable Diffusion, Google CoLab |
+| [Project ZAPini](https://github.com/drag00n77/hack_umbc_2026) | DAST security dashboard from hackUMBC that automates black-box penetration testing on websites and uses AI to explain vulnerabilities and suggest fixes. I built the FastAPI backend and integrated it with the frontend | Python, FastAPI, OWASP ZAP, Streamlit, Gemini API |
+| [Qakbot & Cobalt Strike Investigation](https://github.com/JayLoveCode/qakbot-cobalt-strike-investigation) | Threat hunt reconstructing a Qakbot-to-Cobalt Strike attack chain, with a ~7-hour dwell time and 6,000+ beacon connections | Splunk, Zeek, Wireshark, ANY.RUN |
+| [A.I. Matrix: Synthetic vs. Real](https://github.com/JayLoveCode/ai-matrix-synthetic-vs-authentic) | Trained two Stable Diffusion models on synthetic vs. real faces and tested the difference statistically (p = 0.0114) | Python, Stable Diffusion, Google Colab, Hugging Face |
 
 ### 📫 Contact
 Reach me at paigejayden07@gmail.com or on LinkedIn.
